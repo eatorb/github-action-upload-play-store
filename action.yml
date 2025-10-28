@@ -1,6 +1,6 @@
-name: 'Upload Android App Bundle to Google Play Store'
+name: 'Upload Android App Bundle to Google Play Store (Fixed)'
 description: 'Uploads an Android App Bundle (.aab file) to the Google Play Store using the Play Developer API'
-author: Kevin Rohn
+author: Simon Sedlak
 
 branding:
   icon: 'upload-cloud'
